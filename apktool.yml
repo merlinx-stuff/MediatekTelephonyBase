@@ -1,0 +1,20 @@
+version: 2.9.3
+apkFileName: mediatek-telephony-base.jar
+isFrameworkApk: false
+usesFramework:
+  ids:
+  tag: null
+sdkInfo:
+  minSdkVersion: 28
+packageInfo:
+  forcedPackageId: null
+  renameManifestPackage: null
+versionInfo:
+  versionCode: null
+  versionName: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- classes.dex
+- META-INF/MANIFEST.MF
